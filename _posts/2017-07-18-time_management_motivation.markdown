@@ -11,22 +11,21 @@ I haven't been working on this course for more than a few days, but I'm going to
 
 #### 1. Learn.co chat!
 
-I recently was working through a problem that I KNEW had a simple solution, and I was just missing something obvious. I was a little embarrassed to have to ask someone for help, but I went ahead and asked my first question in the Ask a Question chat.
-
-
+I recently was working through a problem that I KNEW had a simple solution, and I was just missing something obvious. I was a little embarrassed to have to ask someone for help (almost as embarrassed as the thought of someone reading this blog), but I went ahead and asked my first question in the Ask a Question chat. Boom. Fixed. Hooray.
 
 #### 2. Restart
-This one is kind of dumb. Sometimes I can't save and the updates I made to my code is just not going through, and those tests are still failing Blerg.. Sometimes my tests pass but it's not letting me go to the next lesson. Restarting the IDE (or refreshing the page) has helepd me many a time. This is simple, but I still keep forgetting to do it sometimes. 
+Sometimes I can't save and the updates I made to my code is just not going through, and those tests are still failing Blerg.. Sometimes my tests pass but it's not letting me go to the next lesson. Restarting the IDE (or refreshing the page) has helepd me many a time. This is simple, but I still keep forgetting to do it sometimes. 
 
-#### 3. Snack breaks
+What is actually more helpful for me is restarting my code completely (while saving my old broken code attempts so all is not lost) when I'm really stuck on a problem for a long period of time. Sometimes it's just better to go back, think it over from the beginning, and try again.
+
+#### 3. Snack and exercise breaks (Note: exercise sometimes means just walking to the kitchen to get said snack)
 #### 4. No Netflix breaks!
 #### 5. Dumb things, like remembering to take my glasses home from work....doh
 #### 6. My BFF Google
-#### 7. Study Groups
-#### 8. One more time...my BFF Google
+#### 7. Study Groups (TBD!)
 
 
-### 9. Talking to myself
+#### 8. Talking to myself
 
 <iframe src="https://giphy.com/embed/12RChogjV4KAJq" width="480" height="323" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-shining-steven-king-12RChogjV4KAJq">But like, not in a crazy way...</a></p>
 
