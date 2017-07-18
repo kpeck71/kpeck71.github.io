@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "That's what friends are for"
-date:   2017-07-18 02:48:32 +0000
+date:   2017-07-17 22:48:32 -0400
 ---
 
 <iframe src="https://giphy.com/embed/aWWHyproEPZZu" width="480" height="378" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-golden-girls-aWWHyproEPZZu">via GIPHY</a></p>
@@ -20,5 +20,5 @@ That was the final kick in the pants I needed to look in to online web developme
 
 Now I've started the Full Stack Web Development track and I could not be happier. With a little gentle nudging from friends, some internal motivational pep talks, and the Women Take Tech Scholarship, I am SO ready to take this next, huge step foward towards my goal. 
 
-<iframe src="https://giphy.com/embed/C2V3bklNmp9K" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/work-hooray-hustle-C2V3bklNmp9K">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/C2V3bklNmp9K" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/work-hooray-hustle-C2V3bklNmp9K">sorry for swearing</a></p>
 
