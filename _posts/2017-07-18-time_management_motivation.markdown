@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Time Management / Motivation"
-date:   2017-07-18 03:01:22 +0000
+date:   2017-07-17 23:01:22 -0400
 ---
 
 
@@ -10,7 +10,13 @@ The remote/part-time feature of this program is, well, pretty great. But, it doe
 I haven't been working on this course for more than a few days, but I'm going to start putting some of my own methods / ideas for the future that will (hopefully) help keep me motivated as these lessons get harder and harder (eek).
 
 #### 1. Learn.co chat!
-#### 2. Exercise breaks
+
+I recently was working through a problem that I KNEW had a simple solution, and I was just missing something obvious. I was a little embarrassed to have to ask someone for help, but I went ahead and asked my first question in the Ask a Question chat.
+
+
+
+#### 2. Restart
+This one is kind of dumb. Sometimes I can't save and the updates I made to my code is just not going through, and those tests are still failing Blerg.. Sometimes my tests pass but it's not letting me go to the next lesson. Restarting the IDE (or refreshing the page) has helepd me many a time. This is simple, but I still keep forgetting to do it sometimes. 
 
 #### 3. Snack breaks
 #### 4. No Netflix breaks!
