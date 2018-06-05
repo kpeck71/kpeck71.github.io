@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails Portfolio Project"
-date:       2018-06-05 01:31:01 +0000
+date:       2018-06-04 21:31:02 -0400
 permalink:  rails_portfolio_project
 ---
 
@@ -14,6 +14,41 @@ View and create Recipes (if logged in). Users can also edit their own recipes, b
 View Ingredients and Recipes containing an ingredient from the ingredient show page.
 View Categories, sort by most popular (through an ActiveRecord scope method) or alphabeticaly, and view all recipes that fall under a category on the category show page.
 
+Specs:
+- [x] Include at least one has_many relationship:
+ User has_many Recipes
+ 
+- [x ] Include at least one belongs_to relationship (x belongs_to y e.g. Post belongs_to User)
+ Recipe belongs_to User
+ 
+- [x] Include at least one has_many through relationship:
+
+Category
+ has_many :category_recipes 
+ has_many :recipes, through: :category_recipes
+
+Ingredient
+ has_many :recipe_ingredients 
+ has_many :recipes, through: :recipe_ingredients
+	
+User
+  belongs_to :user, :counter_cache => true
+  has_many :recipe_ingredients
+  has_many :ingredients, through: :recipe_ingredients
+  has_many :category_recipes
+  has_many :categories, through: :category_recipes
+	
+- [x] The "through" part of the has_many through includes at least one user submittable attribute 
+Category attributes for Recipes; ingredients Attributes in recipes model
+
+- [x] Include reasonable validations for simple model objects (list of model objects with validations e.g. User, Recipe, Ingredient, Item)
+Category has Title
+Recipe has ingredients
+User has unique email; User has a name
+
+- [x ] Include a class level ActiveRecord scope method (model object & class method name and URL to see the working feature)
+- User.most_recipes URL: /users/most_recipes)
+- Category.sort_by_populatiry URL: /categories/sort_by_popularity
 
 I think I forgot to show my form validation errors in my video walkthrough...
 
