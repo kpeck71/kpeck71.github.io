@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Hoisting and Scope"
-date:       2018-08-06 23:12:27 +0000
+date:       2018-08-06 19:12:28 -0400
 permalink:  hoisting_and_scope
 ---
 
@@ -89,6 +89,11 @@ function letTest() {
 
 Another important hoisting difference between let and var, again from the same MDN docs, is:
 > let bindings are created at the top of the (block) scope containing the declaration, commonly referred to as "hoisting". Unlike variables declared with var, which will start with the value undefined, let variables are not initialized until their definition is evaluated. Accessing the variable before the initialization results in a ReferenceError. The variable is in a "temporal dead zone" from the start of the block until the initialization is processed.
+
+And here is one great visualization about var, let, and const from Mariko Kosaka @kosamari on Twitter: https://pbs.twimg.com/media/CzLVVjtXAAERmbc.jpg
+
+![https://twitter.com/kosamari/status/806941856777011200](https://pbs.twimg.com/media/CzLVVjtXAAERmbc.jpg)
+
 
 **Named and Anonymous Functions**
 
