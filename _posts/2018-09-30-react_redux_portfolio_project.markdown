@@ -19,9 +19,10 @@ I have a lot of refactoring to do in this app, plus additional features to add:
 -Status page: Show which percentage of your monthly expenses are in with categories  (e.g. Fun, Essentials), with pie chart. Possibly give recommendations about how much should be in your savings/essentials pie pieces
 - Conditional styling based on if a goal is paid or not paid
 - Add a payment as you start to put money towards a goal
-- Remove repeated code, like handleChange
+- Remove repeated code, like handleChange, and make components more reusable
 - Filter GoalIdeas based on multiple criteria https://react-select.com/
 - Testing! https://github.com/mjackson/expect
+- Deploy to...Surge? Heroku? https://medium.com/@christine_tran/create-react-app-rails-api-deployment-to-surge-heroku-4f549f2812e6
 
 
 **Notes:**
