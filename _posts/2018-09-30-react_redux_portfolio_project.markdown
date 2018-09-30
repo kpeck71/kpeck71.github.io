@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "React/Redux Portfolio Project"
-date:       2018-09-30 21:33:46 +0000
+date:       2018-09-30 17:33:47 -0400
 permalink:  react_redux_portfolio_project
 ---
 
@@ -16,6 +16,7 @@ I need to reload the page before a new Goal appears in Current Goals after submi
 
 **Refactoring/Wishlist**
 I have a lot of refactoring to do in this app, plus additional features to add:
+-Status page: Show which percentage of your monthly expenses are in with categories  (e.g. Fun, Essentials), with pie chart. Possibly give recommendations about how much should be in your savings/essentials pie pieces
 - Conditional styling based on if a goal is paid or not paid
 - Add a payment as you start to put money towards a goal
 - Remove repeated code, like handleChange
