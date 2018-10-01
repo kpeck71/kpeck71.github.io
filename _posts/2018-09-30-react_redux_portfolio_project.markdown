@@ -13,6 +13,7 @@ In the beginning of the project I had a budget form that had 10+ fields with cat
 
 **Current Open Issues:**
 I need to reload the page before a new Goal appears in Current Goals after submitting the form. I do not have this problem with Expenses.
+CardCreator is a big ol' messy mess. How can I make reusable card components that are cleaner?
 
 **Refactoring/Wishlist**
 I have a lot of refactoring to do in this app, plus additional features to add:
