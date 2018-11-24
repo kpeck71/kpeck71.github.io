@@ -1,11 +1,16 @@
 ---
 layout: post
 title:      "Adding Testing to React App"
-date:       2018-11-24 16:15:13 +0000
+date:       2018-11-24 11:15:14 -0500
 permalink:  adding_testing_to_react_app
 ---
 
-I used create-react-app for my application so Jest is already installed and configured in my app, and now, I'll just need to add Enzyme.
+THIS POST IS UNFINISHED! 
+
+-----
+
+I used create-react-app for my application so Jest is already installed and configured in my app, and now, I'll just need to 
+add Enzyme.
 
 Here are some steps to follow for this:
 https://medium.com/@leonardobrunolima/react-tips-testing-react-component-with-jest-enzyme-basics-38a15d5dd72a
